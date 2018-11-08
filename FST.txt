@@ -1,0 +1,13 @@
+﻿
+nom = khouloud ; prénom = attia ; cin = azertyui ; téléphone = 012345
+nom = khouloud ; prénom = rmedi ; cin = azertyui ; téléphone = 012345
+nom = khouloud ; prénom = attiaaaaaa ; cin = azertyui ; téléphone = 012345
+nom = khouloud ; prénom = amine ; cin = azertyui ; téléphone = 012345
+nom = khouloud ; prénom = rab ; cin = azertyui ; téléphone = 012345
+nom = bouhamed ; prénom = salmen ; cin = 88888888 ; téléphone = 20202020
+nom = bouhamed ; prénom = salmen ; cin = 77777777 ; téléphone = 20202020
+nom = bouhamed ; prénom = salmen ; cin =  ; téléphone = 20202020
+nom = bouhamed ; prénom = salmen ; cin =  ; téléphone = 20202020
+nom = bouhamed ; prénom = salmen ; cin =  ; téléphone = 20202020255
+nom = Salmen ; prénom = Bouhamed ; cin = 12345678 ; téléphone = 95959595
+nom = sd ; prénom = sdsd ; cin = 00000000 ; téléphone = 88888

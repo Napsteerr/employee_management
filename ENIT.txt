@@ -1,0 +1,2 @@
+nom = aa ; prénom = bb ; cin = 33 ; téléphone = dd
+nom = gg ; prénom = ff ; cin = 44 ; téléphone = ee
